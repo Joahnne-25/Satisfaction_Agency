@@ -23,11 +23,16 @@ Route::get('/', function () {
     return view('index');
 });
 
+//connexion
+Route::get('/register', function () {
+    return view('register');
+});
+
 Route::get('/appartements', function () {
     return view('property-grid');
 });
 
-Route::get('/appartements/{1}', function () {
+Route::get('/appartements/{id}', function () {
     return view('property-single');
 });
 

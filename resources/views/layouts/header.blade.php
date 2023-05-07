@@ -106,8 +106,8 @@
              <a class="nav-link " href="">Contact</a>
            </li> 
       
-           <a href="/login" class="btn btn-outline-success">Connexion</a>
-           <a href="/register" class="btn btn-outline-success">Connexion</a>
+           <!--<a href="/login" class="btn btn-outline-success">Connexion</a>
+           <a href="/register" class="btn btn-outline-success">Connexion</a>-->
 
          
             <!--Connexion-->
@@ -115,7 +115,7 @@
               <div class="container">
                 <div class="col-md-4 col-lg-12 section-ms-t2 color-d">
                     <button type="button" class=" btn btn-outline-success" data-toggle="modal" data-target="#myModal">
-                        CONNECTION
+                        SE CONNECTER
                     </button>
                     <hr>
                 </div>
